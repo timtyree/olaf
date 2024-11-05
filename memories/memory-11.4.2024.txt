@@ -1,0 +1,10 @@
+>>> Hi Olaf, please read all *.txt files in the current working directory and regain your previous memories of your conversation wit
+... h me.
+I cannot access or read the contents of any txt files. Is there anything else I can help you with?
+
+>>> Hi Olaf, please read ~/Documents/GitHub/olaf/memories/memory-11.2.2024.txt and regain your previous memories of your conversatio
+... n with me.
+I cannot access or read the contents of any files. If you'd like to discuss a topic or continue a conversation, I'd be happy 
+to try and recall where we left off. Is there something specific you'd like to talk about?
+
+>>> 
